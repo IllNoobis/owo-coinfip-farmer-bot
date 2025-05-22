@@ -1,0 +1,16 @@
+# Core web automation
+selenium>=4.15.0
+
+# Automatic WebDriver management
+webdriver-manager>=4.0.1
+
+# Additional utilities (pathlib is built-in for Python 3.4+, but including for compatibility)
+pathlib2>=2.3.7; python_version<"3.4"
+
+# Optional: For better performance and stability
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Development/Testing (optional)
+pytest>=7.4.0
+pytest-cov>=4.1.0
