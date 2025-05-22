@@ -1,11 +1,12 @@
-# owo-coinfip-farmer-bot
-As stated in name, (cannot currently detect capcha messages USE AT OWN RISK) (MADE FOR EDUCATIONAL PURPOSES!)
-
-
 
 # Discord Coinflip Bot v3.0 - Modular Edition
 
 A sophisticated, modular Discord betting bot with advanced risk management, customizable configurations, and comprehensive logging.
+
+
+As stated in name, (VERIFICATION/CAPTCHA FEATURE IS NOT CURRENTLY WORKING!) <USE AT OWN RISK> (MADE FOR EDUCATIONAL PURPOSES!)
+
+
 
 ## 🚀 Features
 
